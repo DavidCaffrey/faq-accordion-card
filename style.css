@@ -1,0 +1,50 @@
+:root {
+  /* Colors */
+
+  /* Primary */
+
+  /* Text */
+
+  --clr-text-blue:hsl(238, 29%, 16%);
+  --clr-text-red:hsl(14, 88%, 65%);
+
+  /* Gradient */
+  
+  /* Background gradient */
+  
+  --clr-bg-grad-violet: hsl(273, 75%, 66%);
+  --clr-bg-grad-blue:hsl(240, 73%, 65%);
+
+  /* Neutral */
+  
+  /* Text */
+
+  --clr-text-v-dark:hsl(237, 12%, 33%);
+  --clr-text-dark:hsl(240, 6%, 50%);
+  
+  /* Dividers */
+
+  --clr-light-gray-blue:hsl(240, 5%, 91%);
+  
+  
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
